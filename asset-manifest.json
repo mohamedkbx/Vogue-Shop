@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Vogue-Shop/static/css/main.9c2f17be.css",
+    "main.js": "/Vogue-Shop/static/js/main.73cf3d52.js",
+    "static/media/1.jpg": "/Vogue-Shop/static/media/1.ab41344c41ec535cf2dd.jpg",
+    "static/media/2.jpg": "/Vogue-Shop/static/media/2.e699b5322f72fd8b9ca0.jpg",
+    "static/media/shopping_cart.png": "/Vogue-Shop/static/media/shopping_cart.9bdd8040b334d31946f4.png",
+    "static/media/correct.png": "/Vogue-Shop/static/media/correct.a8d20cd48e2e0d022083.png",
+    "static/media/slick.svg": "/Vogue-Shop/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Vogue-Shop/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Vogue-Shop/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Vogue-Shop/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/loader.svg": "/Vogue-Shop/static/media/loader.02a3e4afc0e85e0555b849b5c2a4f012.svg",
+    "index.html": "/Vogue-Shop/index.html",
+    "main.9c2f17be.css.map": "/Vogue-Shop/static/css/main.9c2f17be.css.map",
+    "main.73cf3d52.js.map": "/Vogue-Shop/static/js/main.73cf3d52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c2f17be.css",
+    "static/js/main.73cf3d52.js"
+  ]
+}
